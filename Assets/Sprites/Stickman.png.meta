@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: a9fb94873bb274d438b207732d2f3c71
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stickman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 178
+        height: 324
+      alignment: 9
+      pivot: {x: 0.47817427, y: 0.53748804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7b71c4fdc8f10499053de90a27145f
+      internalID: 817609509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickman_2
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 26
+        width: 245
+        height: 251
+      alignment: 9
+      pivot: {x: 0.8225581, y: 0.40209022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a70ad6faa204142bd23d1b73974438
+      internalID: 719409572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickman_8
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 9
+        width: 131
+        height: 251
+      alignment: 9
+      pivot: {x: 0.49486, y: 0.45025077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a8565f55c162e4b80f471a61e42fe0
+      internalID: -418328975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickman_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 9
+        width: 199
+        height: 229
+      alignment: 9
+      pivot: {x: 0.22879672, y: 0.47895765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179d0479daca58b4d81ff272833fc639
+      internalID: 1830713217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickman_33
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 20
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7519860ebac124cb768ef114cb38c8
+      internalID: 233513779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Stickman_0: 817609509
+      Stickman_1: 2060188225
+      Stickman_10: 1275590295
+      Stickman_11: -447472596
+      Stickman_12: 942845916
+      Stickman_13: -1454221058
+      Stickman_14: -142175798
+      Stickman_15: 625465845
+      Stickman_16: 1830713217
+      Stickman_17: 249055137
+      Stickman_18: 1215692267
+      Stickman_19: -1426094123
+      Stickman_2: 719409572
+      Stickman_20: 54254189
+      Stickman_21: -1886720173
+      Stickman_22: 1093329671
+      Stickman_23: 1395323129
+      Stickman_24: 383388803
+      Stickman_25: -55827382
+      Stickman_26: -1552550582
+      Stickman_27: -345060335
+      Stickman_28: 2126312569
+      Stickman_29: -20976046
+      Stickman_3: 1793361670
+      Stickman_30: 1214537536
+      Stickman_31: 2044784348
+      Stickman_32: 630088004
+      Stickman_33: 233513779
+      Stickman_34: 1541272657
+      Stickman_35: -1699468047
+      Stickman_36: -470558988
+      Stickman_37: 545742997
+      Stickman_38: -1688472114
+      Stickman_39: -1224121712
+      Stickman_4: 470470014
+      Stickman_40: -993239492
+      Stickman_41: -1148558771
+      Stickman_42: -1900089184
+      Stickman_43: -899661525
+      Stickman_44: 1351069809
+      Stickman_45: -360012745
+      Stickman_46: 86665028
+      Stickman_47: -444928707
+      Stickman_48: -674629913
+      Stickman_49: 468256618
+      Stickman_5: 200465254
+      Stickman_50: -132603042
+      Stickman_51: 723997035
+      Stickman_52: -1381912513
+      Stickman_53: -1834825029
+      Stickman_54: 1239871950
+      Stickman_55: -498644708
+      Stickman_56: 723590244
+      Stickman_57: -2011607676
+      Stickman_58: -1086054984
+      Stickman_59: -2021217350
+      Stickman_6: -883399529
+      Stickman_7: -907670224
+      Stickman_8: -418328975
+      Stickman_9: -1080783745
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
